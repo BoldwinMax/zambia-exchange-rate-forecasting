@@ -8,7 +8,7 @@ Most commentary on the Kwacha treats copper prices as the main driver. This proj
 
 **Key finding:** foreign exchange reserves, not copper prices, are the strongest single driver of Kwacha movements in this data — accounting for roughly half the explained variation in a multivariate analysis.
 
-**Key limitation, reported honestly:** the model's forecast intervals remain miscalibrated specifically on the upside, particularly during the 2022–2024 period of historically unprecedented depreciation. Two targeted fixes were tested; neither fully closed the gap. This is treated as a finding in itself, not swept under the rug.
+**Key limitation:** the model's forecast intervals remain miscalibrated specifically on the upside, particularly during the 2022–2024 period of historically unprecedented depreciation. Two targeted fixes were tested; neither fully closed the gap. This is treated as a finding in itself, not swept under the rug.
 
 ## Methodology
 
